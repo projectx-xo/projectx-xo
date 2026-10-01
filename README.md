@@ -13,4 +13,4 @@
 - [tjHBM / HBM’s Nuclear Tech](https://github.com/projectx-xo/HBM-s-Nuclear-Tech) — a customized fork extending OpenComputers integration and simulated in-game radar/satellite systems.
 </details>
 
-<sub>This profile links public work only; the illustration intentionally does not use repository counts as a measure of the full portfolio.</sub>
+
